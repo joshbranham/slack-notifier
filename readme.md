@@ -1,3 +1,5 @@
+**WARNING: The upstream has resolved an issue with Ruby 3.0 therefore this fork is no longer needed. If using, please migrate to `slack-notifier` from rubygems.**
+
 A simple wrapper to send notifications to [Slack](https://slack.com/) webhooks.
 
 [![Build Status](https://travis-ci.org/stevenosloan/slack-notifier.svg?branch=master)](https://travis-ci.org/stevenosloan/slack-notifier)
